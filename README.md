@@ -1,6 +1,6 @@
-# ShopTalk Legal Documents
+# The Breakroom Legal Documents
 
-GitHub Pages site hosting Privacy Policy and Terms of Service for the ShopTalk mobile app.
+GitHub Pages site hosting Privacy Policy and Terms of Service for the The Breakroom mobile app.
 
 ## What's Included
 
@@ -22,7 +22,7 @@ See the parent README or GITHUB-PAGES-SETUP-INSTRUCTIONS.md for step-by-step set
 
 ## License
 
-© 2026 ShopTalk. All rights reserved.
+© 2026 The Breakroom. All rights reserved.
 
 ## Contact
 

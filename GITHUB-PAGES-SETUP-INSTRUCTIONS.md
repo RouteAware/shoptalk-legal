@@ -6,7 +6,7 @@ I've already completed these steps:
 
 1. ✅ Created beautiful HTML versions of your Privacy Policy and Terms of Service
 2. ✅ Created a landing page with links to both documents
-3. ✅ Initialized a git repository in `/Desktop/ShopTalk-V1/shoptalk-legal/`
+3. ✅ Initialized a git repository in `/Desktop/The Breakroom-V1/shoptalk-legal/`
 4. ✅ Made the first commit with all files
 
 **The repository is ready to push to GitHub!**
@@ -21,7 +21,7 @@ I've already completed these steps:
 2. Click the **green "New"** button (top left) or go to https://github.com/new
 3. Fill in the details:
    - **Repository name:** `shoptalk-legal` (exactly this name)
-   - **Description:** "Legal documents for ShopTalk mobile app"
+   - **Description:** "Legal documents for The Breakroom mobile app"
    - **Public** (must be public for GitHub Pages to work on free plan)
    - **DO NOT** check "Add a README file"
    - **DO NOT** add .gitignore
@@ -36,7 +36,7 @@ After creating the repository, GitHub will show you a page with instructions. **
 2. Copy and paste these commands **one at a time**:
 
 ```bash
-cd /Users/alexanderhughes/Desktop/ShopTalk-V1/shoptalk-legal
+cd /Users/alexanderhughes/Desktop/The Breakroom-V1/shoptalk-legal
 ```
 
 ```bash
@@ -54,7 +54,7 @@ git push -u origin main
 
    **Don't have a token?** Create one at: https://github.com/settings/tokens
    - Click "Generate new token (classic)"
-   - Give it a name like "ShopTalk Legal Upload"
+   - Give it a name like "The Breakroom Legal Upload"
    - Check the "repo" checkbox
    - Click "Generate token"
    - Copy the token and use it as your password
@@ -129,7 +129,7 @@ You need a Personal Access Token, not your password. See Step 2 above.
 
 **Commands to run:**
 ```bash
-cd /Users/alexanderhughes/Desktop/ShopTalk-V1/shoptalk-legal
+cd /Users/alexanderhughes/Desktop/The Breakroom-V1/shoptalk-legal
 git remote add origin https://github.com/[YOUR-USERNAME]/shoptalk-legal.git
 git push -u origin main
 ```
